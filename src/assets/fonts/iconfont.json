@@ -1,0 +1,149 @@
+{
+  "id": "",
+  "name": "",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "344459",
+      "name": "用户名",
+      "font_class": "icon",
+      "unicode": "e63e",
+      "unicode_decimal": 58942
+    },
+    {
+      "icon_id": "677589",
+      "name": "密码",
+      "font_class": "mima",
+      "unicode": "e626",
+      "unicode_decimal": 58918
+    },
+    {
+      "icon_id": "973753",
+      "name": "Hamburger",
+      "font_class": "hamburger",
+      "unicode": "e605",
+      "unicode_decimal": 58885
+    },
+    {
+      "icon_id": "1921129",
+      "name": "项目类型",
+      "font_class": "xiangmuleixing",
+      "unicode": "e60b",
+      "unicode_decimal": 58891
+    },
+    {
+      "icon_id": "2121739",
+      "name": "品牌",
+      "font_class": "pinpai",
+      "unicode": "e60f",
+      "unicode_decimal": 58895
+    },
+    {
+      "icon_id": "2480667",
+      "name": "首页",
+      "font_class": "shouye",
+      "unicode": "e630",
+      "unicode_decimal": 58928
+    },
+    {
+      "icon_id": "3240132",
+      "name": "商品分类",
+      "font_class": "shangpinfenlei",
+      "unicode": "e610",
+      "unicode_decimal": 58896
+    },
+    {
+      "icon_id": "3591471",
+      "name": "商品列表",
+      "font_class": "shangpinliebiao",
+      "unicode": "e639",
+      "unicode_decimal": 58937
+    },
+    {
+      "icon_id": "3591756",
+      "name": "订单列表",
+      "font_class": "dingdanliebiao",
+      "unicode": "e63c",
+      "unicode_decimal": 58940
+    },
+    {
+      "icon_id": "4734154",
+      "name": "权限",
+      "font_class": "ic_opt_feature",
+      "unicode": "e611",
+      "unicode_decimal": 58897
+    },
+    {
+      "icon_id": "5383656",
+      "name": "设置",
+      "font_class": "shezhi",
+      "unicode": "e781",
+      "unicode_decimal": 59265
+    },
+    {
+      "icon_id": "6447200",
+      "name": "添加商品",
+      "font_class": "tianjiashangpin",
+      "unicode": "e64e",
+      "unicode_decimal": 58958
+    },
+    {
+      "icon_id": "7159322",
+      "name": "角色列表",
+      "font_class": "jiaoseliebiao",
+      "unicode": "e612",
+      "unicode_decimal": 58898
+    },
+    {
+      "icon_id": "8662506",
+      "name": "app后台管理",
+      "font_class": "apphoutaiguanli",
+      "unicode": "e66e",
+      "unicode_decimal": 58990
+    },
+    {
+      "icon_id": "8776631",
+      "name": "view",
+      "font_class": "icon-test",
+      "unicode": "e633",
+      "unicode_decimal": 58931
+    },
+    {
+      "icon_id": "8776676",
+      "name": "view_off",
+      "font_class": "icon-test1",
+      "unicode": "e634",
+      "unicode_decimal": 58932
+    },
+    {
+      "icon_id": "11370993",
+      "name": "订单",
+      "font_class": "dingdan-",
+      "unicode": "e637",
+      "unicode_decimal": 58935
+    },
+    {
+      "icon_id": "12184868",
+      "name": "商品",
+      "font_class": "shangpin",
+      "unicode": "e683",
+      "unicode_decimal": 59011
+    },
+    {
+      "icon_id": "13871943",
+      "name": "菜单列表",
+      "font_class": "caidanliebiao",
+      "unicode": "e632",
+      "unicode_decimal": 58930
+    },
+    {
+      "icon_id": "13872530",
+      "name": "用户列表",
+      "font_class": "yonghuliebiao",
+      "unicode": "e657",
+      "unicode_decimal": 58967
+    }
+  ]
+}

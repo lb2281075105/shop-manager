@@ -1,5 +1,5 @@
 <template>
-  <div>主界面</div>
+    <router-view></router-view>
 </template>
 
 <script>
@@ -11,5 +11,6 @@ export default {
 </script>
 
 <style>
-
+@import "assets/less/base.less";
+@import "assets/fonts/iconfont.css";
 </style>
