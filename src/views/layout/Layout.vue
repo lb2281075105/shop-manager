@@ -4,7 +4,8 @@
     <el-container>
       <LeftAside />
       <el-container >
-        <el-main>Main</el-main>
+
+        <router-view></router-view>
         <el-footer>
           <a>CopyRight @ 2021-2023 撩课学院. All right reserved</a>
         </el-footer>
