@@ -5,15 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="5ebe2b30-33a9-4294-bb05-632623ab278b" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/src/api/adminApi.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/views/layout/components/LeftAside.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/views/layout/components/NavBar.vue" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/api/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/api/index.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/config/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/config/index.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/util/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/util/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/views/layout/Layout.vue" beforeDir="false" afterPath="$PROJECT_DIR$/src/views/layout/Layout.vue" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/views/login/Login.vue" beforeDir="false" afterPath="$PROJECT_DIR$/src/views/login/Login.vue" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/vite.config.js" beforeDir="false" afterPath="$PROJECT_DIR$/vite.config.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/yarn.lock" beforeDir="false" afterPath="$PROJECT_DIR$/yarn.lock" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -24,6 +20,7 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Less File" />
+        <option value="Vue Single File Component" />
       </list>
     </option>
   </component>
@@ -133,7 +130,7 @@
     <property name="JavaScriptPreferStrict" value="false" />
     <property name="JavaScriptWeakerCompletionTypeGuess" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/util" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/views/layout/components" />
     <property name="list.type.of.created.stylesheet" value="Less" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
@@ -147,6 +144,7 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/views/layout/components" />
       <recent name="$PROJECT_DIR$/src/util" />
       <recent name="$PROJECT_DIR$/src/api" />
       <recent name="$PROJECT_DIR$/src/assets" />
@@ -164,7 +162,7 @@
       <option name="presentableId" value="Default" />
       <updated>1629729831069</updated>
       <workItem from="1629729832323" duration="3679000" />
-      <workItem from="1629949294647" duration="6259000" />
+      <workItem from="1629949294647" duration="12519000" />
     </task>
     <servers />
   </component>
