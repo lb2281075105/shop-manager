@@ -1,0 +1,92 @@
+[
+  {
+    "id": "1",
+    "parentId": "0",
+    "title": "首页",
+    "key": "/home",
+    "icon": "icon iconfont icon-shouye"
+  },
+  {
+    "id": "2",
+    "parentId": "0",
+    "title": "商品",
+    "icon": "icon iconfont icon-shangpin",
+    "key": "/pm",
+    "children": [
+      {
+        "id": "5",
+        "parentId": "2",
+        "title": "商品列表",
+        "icon": "icon iconfont icon-shangpinliebiao",
+        "key": "/pm/product"
+      },
+      {
+        "id": "6",
+        "parentId": "2",
+        "title": "添加商品",
+        "icon": "icon iconfont icon-tianjiashangpin",
+        "key": "/pm/addProduct"
+      },
+      {
+        "id": "7",
+        "parentId": "2",
+        "title": "商品分类",
+        "icon": "icon iconfont icon-shangpinfenlei",
+        "key": "/pm/productCategory"
+      }
+    ]
+  },
+  {
+    "id": "3",
+    "parentId": "0",
+    "title": "订单",
+    "icon": "icon iconfont icon-dingdan-",
+    "key": "/om",
+    "children": [
+      {
+        "id": "8",
+        "parentId": "3",
+        "title": "订单列表",
+        "icon": "icon iconfont icon-dingdanliebiao",
+        "key": "/om/order"
+      },
+      {
+        "id": "9",
+        "parentId": "3",
+        "title": "订单设置",
+        "icon": "icon iconfont icon-shezhi",
+        "key": "/om/setting"
+      }
+    ]
+  },
+  {
+    "id": "4",
+    "parentId": "0",
+    "title": "权限",
+    "icon": "icon iconfont icon-ic_opt_feature",
+    "key": "/um",
+    "children": [
+      {
+        "id": "10",
+        "parentId": "4",
+        "title": "用户列表",
+        "icon": "icon iconfont icon-yonghuliebiao",
+        "key": "/um/admin"
+      },
+      {
+        "id": "11",
+        "parentId": "4",
+        "title": "角色列表",
+        "icon": "icon iconfont icon-shezhi",
+        "key": "/um/role"
+      },
+      {
+        "id": "12",
+        "parentId": "4",
+        "title": "菜单列表",
+        "icon": "icon iconfont icon-caidanliebiao",
+        "key": "/um/menu"
+      }
+    ]
+  }
+]

@@ -5,11 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="5ebe2b30-33a9-4294-bb05-632623ab278b" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/src/views/layout/components/LeftAside.vue" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/views/layout/components/NavBar.vue" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/views/layout/Layout.vue" beforeDir="false" afterPath="$PROJECT_DIR$/src/views/layout/Layout.vue" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/views/login/Login.vue" beforeDir="false" afterPath="$PROJECT_DIR$/src/views/login/Login.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/views/home/Home.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/views/om/Add.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/views/om/List.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/views/om/Setting.vue" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -162,7 +161,7 @@
       <option name="presentableId" value="Default" />
       <updated>1629729831069</updated>
       <workItem from="1629729832323" duration="3679000" />
-      <workItem from="1629949294647" duration="12519000" />
+      <workItem from="1629949294647" duration="12836000" />
     </task>
     <servers />
   </component>
