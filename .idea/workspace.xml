@@ -5,10 +5,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="5ebe2b30-33a9-4294-bb05-632623ab278b" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/src/views/home/Home.vue" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/views/om/Add.vue" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/views/om/List.vue" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/views/om/Setting.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/views/NotFound.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/App.vue" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/router/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/router/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/views/layout/Layout.vue" beforeDir="false" afterPath="$PROJECT_DIR$/src/views/layout/Layout.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/views/layout/components/LeftAside.vue" beforeDir="false" afterPath="$PROJECT_DIR$/src/views/layout/components/LeftAside.vue" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -129,7 +131,7 @@
     <property name="JavaScriptPreferStrict" value="false" />
     <property name="JavaScriptWeakerCompletionTypeGuess" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/views/layout/components" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/views" />
     <property name="list.type.of.created.stylesheet" value="Less" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
@@ -143,10 +145,11 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/views" />
       <recent name="$PROJECT_DIR$/src/views/layout/components" />
-      <recent name="$PROJECT_DIR$/src/util" />
-      <recent name="$PROJECT_DIR$/src/api" />
-      <recent name="$PROJECT_DIR$/src/assets" />
+      <recent name="$PROJECT_DIR$/src/views/pm/productCategory" />
+      <recent name="$PROJECT_DIR$/src/views/pm/product/components" />
+      <recent name="$PROJECT_DIR$/src/views/um/role" />
     </key>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
@@ -161,7 +164,7 @@
       <option name="presentableId" value="Default" />
       <updated>1629729831069</updated>
       <workItem from="1629729832323" duration="3679000" />
-      <workItem from="1629949294647" duration="12836000" />
+      <workItem from="1629949294647" duration="15206000" />
     </task>
     <servers />
   </component>

@@ -29,12 +29,18 @@ export default {
 }
 
 </script>
-<style scoped>
+<style scoped lang="less">
 .app-wrapper{
   width: 100%;
   height: 100vh;
   display: flex;
   flex-direction: column;
 
+  .el-footer{
+    height: 120px !important;
+    text-align: center;
+    line-height: 60px;
+    border-top: 1px solid #cccccc;
+  }
 }
 </style>

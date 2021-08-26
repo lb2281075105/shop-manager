@@ -3,10 +3,14 @@
 </template>
 
 <script>
+import menuConfig from './config/menuConfig.json'
 export default {
   name: "LeftAside",
   setup(){
+    console.log(menuConfig);
+    return {
 
+    }
   }
 }
 </script>
